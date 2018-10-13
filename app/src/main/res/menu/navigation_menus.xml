@@ -2,7 +2,32 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@+id/menu_home"
-        android:title="@string/app_name">
+        android:title="@string/menu_home">
     </item>
+
+    <item android:id="@+id/menu_basics"
+        android:title="@string/menu_basics">
+    </item>
+
+    <item android:id="@+id/menu_reset"
+        android:title="@string/menu_reset">
+    </item>
+
+    <item android:id="@+id/menu_review"
+        android:title="@string/menu_review">
+    </item>
+
+    <item android:id="@+id/menu_branching"
+        android:title="@string/menu_branching">
+    </item>
+
+    <item android:id="@+id/menu_sync"
+        android:title="@string/menu_sync">
+    </item>
+
+    <item android:id="@+id/menu_fragments"
+        android:title="@string/menu_fragments">
+    </item>
+
 
 </menu>
